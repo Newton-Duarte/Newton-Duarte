@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Newton!
+### Hi there 👋 I'm Newton!
 
 Graduado em Sistemas de Informação pela Faculdade de Alagoas, possuo vivência em desenvolvimento web e conhecimentos sólidos em front-end e back-end utilizando a linguagem JavaScript, banco de dados NoSQL e SQL, infraestrutura e nuvem.
 
