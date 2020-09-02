@@ -5,5 +5,5 @@ Graduado em Sistemas de Informação pela Faculdade de Alagoas, possuo vivência
 Estou sempre aberto a novos conhecimentos, utilizando as melhores práticas que geram produtos de fácil utilização e manutenção, sempre pensando na melhor experiência para o usuário.
 
 - 🔭 I’m currently working on [Syclus](https://syclus.com.br)
-- 🌱 I’m currently learning PWA
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: https://newtonduarte.com.br | https://www.linkedin.com/in/newton-duarte/ | newton_@hotmail.com
