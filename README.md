@@ -5,5 +5,5 @@ Graduado em Sistemas de Informação pela Faculdade de Alagoas, possuo vivência
 Estou sempre aberto a novos conhecimentos, utilizando as melhores práticas que geram produtos de fácil utilização e manutenção, sempre pensando na melhor experiência para o usuário.
 
 - 🔭 I’m currently working on [Edusynch](https://edusynch.com)
-- 🌱 I’m currently learning Node.js with TypeScript
+- 🌱 I’m currently learning C#, Node.js, Next.js, Angular, TypeScript
 - 📫 How to reach me: https://newtonduarte.com.br | https://www.linkedin.com/in/newton-duarte/ | newton_@hotmail.com
