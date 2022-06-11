@@ -6,4 +6,4 @@ Estou sempre aberto a novos conhecimentos, utilizando as melhores práticas que 
 
 - 🔭 I’m currently working on [Edusynch](https://edusynch.com)
 - 🌱 I’m currently learning C#, Node.js, Next.js, Angular, TypeScript
-- 📫 How to reach me: https://newtonduarte.com.br | https://www.linkedin.com/in/newton-duarte/ | newton_@hotmail.com
+- 📫 How to reach me: https://newtonduarte.com.br | https://www.linkedin.com/in/newton-duarte | newton_@hotmail.com
