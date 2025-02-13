@@ -26,3 +26,6 @@ Apaixonado por desenvolver aplicações web de alto desempenho com React.js, Nex
 - Aprimorando habilidades de conversação em inglês para melhorar a comunicação em times internacionais.
 
 Atualmente buscando novas oportunidades remotas para contribuir com minhas habilidades e experiência.
+
+### 💎 Top skills
+React.js • Next.js • Node.js • TypeScript • JavaScript
