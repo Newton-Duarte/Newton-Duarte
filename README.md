@@ -6,11 +6,11 @@ Passionate about building high-performance web applications with React.js, Next.
 
 - 10+ years of experience in frontend development, optimizing UI/UX, and building reusable components.
 - Experience in remote work, and collaborating in Agile teams.
-- Knowledge of backend technologies (Node.js, Express.js, Fastify, PostgreSQL) for full-stack integrations.
+- Knowledge of backend technologies (Node.js, Express.js, Fastify, PostgreSQL, Java, Spring Boot, Hibernate) for full-stack integrations.
 - Proficient in performance optimization, state management (Redux, Zustand, Context API), and responsive design.
 - Actively improving English speaking skills for better communication in international teams.
 
-Currently seeking new remote opportunities to contribute my skills and experience. Let’s connect!
+I am currently seeking new opportunities to contribute my skills and experience. Let’s connect!
 
 _______________________________________________________________________________________________________
 
@@ -21,11 +21,11 @@ Apaixonado por desenvolver aplicações web de alto desempenho com React.js, Nex
 
 - 10+ anos de experiência em desenvolvimento frontend, otimização de UI/UX e criação de componentes reutilizáveis.
 - Experiência com trabalho remoto, colaborando em times ágeis.
-- Conhecimento de tecnologias backend (Node.js, Express.js, Fastify, PostgreSQL) para integração full stack.
+- Conhecimento de tecnologias backend (Node.js, Express.js, Fastify, PostgreSQL, Java, Spring Boot, Hibernate) para integração full stack.
 - Especialista em otimização de performance, gerenciamento de estado (Redux, Zustand, Context API) e design responsivo.
 - Aprimorando habilidades de conversação em inglês para melhorar a comunicação em times internacionais.
 
-Atualmente buscando novas oportunidades remotas para contribuir com minhas habilidades e experiência.
+Estou atualmente buscando novas oportunidades para contribuir com minhas habilidades e experiência.
 
 ### 💎 Top skills
 React.js • Next.js • Node.js • TypeScript • JavaScript
